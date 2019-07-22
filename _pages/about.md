@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Youzhi Luo, PhD Student"
+title: "Youzhi Luo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
