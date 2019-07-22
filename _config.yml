@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Youzhi Luo"
   avatar           : "bio_photo.png"
-  bio              : ""
+  bio              : 
   location         : "College Station, Texas"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/youzhi-luo-139981172/"
+  linkedin         : "youzhi-luo-139981172"
   orcid            : 
   pinterest        :
   soundcloud       :
