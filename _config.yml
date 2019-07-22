@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Youzhi Luo"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Youzhi Luo"
 description              : &description "personal description"
