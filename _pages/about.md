@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a coming PhD student to Texas A&M University.
+I am currently a PhD student in the Department of Computer Science & Engineering, Texas A&M University. My advisor is [Prof. Shuiwang Ji](http://people.tamu.edu/~sji/). My research interests include machine learning and its application in computer vision.
